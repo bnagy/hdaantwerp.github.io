@@ -13,8 +13,15 @@
 ## Schedule
 ###  Week 1
 
-- #### Friday (18/10/2024) Room:S.R.213
-	- Morning (10:30 - 13:30)  
-		&emsp;**[HDA: Course Overview](LINK)** 
+- #### Friday (18/10/2024) Room:S.R.213, 10:30 — 13:30
+	- &emsp;**[HDA: Course Overview (slides)](LINK)** 
+	- &emsp;**[HDA: Datasets (slides)](LINK)** 
+	- &emsp;**[Pandas (notebook)](LINK)** 
+	- &emsp;**[Descriptive Statistics (notebook)](LINK)** 
+	- &emsp;**[Data Visualisation (notebook)](LINK)**
+	- &emsp;**[Homework (notebook)](LINK)** 
+
+
+
 
 

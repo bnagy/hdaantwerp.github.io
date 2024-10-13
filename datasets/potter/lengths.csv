@@ -1,0 +1,200 @@
+index,book,chapter,UK,US
+1,1-Harry Potter and the Philosopher's Stone,00-The Boy Who Lived,20.98909090909091,21.062043795620436
+2,1-Harry Potter and the Philosopher's Stone,01-The Vanishing Glass,21.505050505050505,21.26865671641791
+3,1-Harry Potter and the Philosopher's Stone,02-The Letters from No One,19.738589211618258,19.83817427385892
+4,1-Harry Potter and the Philosopher's Stone,03-The Keeper of the Keys,19.870967741935484,19.846774193548388
+5,1-Harry Potter and the Philosopher's Stone,04-Diagon Alley,20.173302107728336,19.91183294663573
+6,1-Harry Potter and the Philosopher's Stone,05-The Journey from Platform Nine and Three-Quarters,19.897374701670646,19.788598574821854
+7,1-Harry Potter and the Philosopher's Stone,06-The Sorting Hat,20.137184115523464,20.05693950177936
+8,1-Harry Potter and the Philosopher's Stone,07-The Potions Master,22.96894409937888,23.358490566037737
+9,1-Harry Potter and the Philosopher's Stone,08-The Midnight Duel,21.277227722772277,21.344370860927153
+10,1-Harry Potter and the Philosopher's Stone,09-Hallowe’en,20.692015209125476,21.06949806949807
+11,1-Harry Potter and the Philosopher's Stone,10-Quidditch,20.169014084507044,20.39622641509434
+12,1-Harry Potter and the Philosopher's Stone,11-The Mirror of Erised,20.234782608695653,20.278260869565216
+13,1-Harry Potter and the Philosopher's Stone,12-Nicolas Flamel,20.73134328358209,21.055555555555557
+14,1-Harry Potter and the Philosopher's Stone,13-Norbert the Norwegian Ridgeback,19.799145299145298,19.347280334728033
+15,1-Harry Potter and the Philosopher's Stone,14-The Forbidden Forest,19.495677233429394,19.57514450867052
+16,1-Harry Potter and the Philosopher's Stone,15-Through the Trapdoor,21.05352798053528,20.915458937198068
+17,1-Harry Potter and the Philosopher's Stone,16-The Man with Two Faces,20.81578947368421,20.60632183908046
+18,2-Harry Potter and the Chamber of Secrets,00-The Worst Birthday,24.244444444444444,23.891304347826086
+19,2-Harry Potter and the Chamber of Secrets,01-Dobby’s Warning,21.726744186046513,20.916201117318437
+20,2-Harry Potter and the Chamber of Secrets,02-The Burrow,24.311475409836067,23.620553359683793
+21,2-Harry Potter and the Chamber of Secrets,03-At Flourish and Blotts,24.593333333333334,24.360655737704917
+22,2-Harry Potter and the Chamber of Secrets,04-The Whomping Willow,22.40199335548173,22.82059800664452
+23,2-Harry Potter and the Chamber of Secrets,05-Gilderoy Lockhart,22.768627450980393,22.01498127340824
+24,2-Harry Potter and the Chamber of Secrets,06-Mudbloods and Murmurs,19.790849673202615,19.558064516129033
+25,2-Harry Potter and the Chamber of Secrets,07-The Deathday Party,22.66532258064516,22.318897637795274
+26,2-Harry Potter and the Chamber of Secrets,08-The Writing on the Wall,22.93959731543624,22.145631067961165
+27,2-Harry Potter and the Chamber of Secrets,09-The Rogue Bludger,22.57894736842105,22.319218241042346
+28,2-Harry Potter and the Chamber of Secrets,10-The Duelling Club,22.123919308357348,22.602941176470587
+29,2-Harry Potter and the Chamber of Secrets,11-The Polyjuice Potion,21.366666666666667,21.167664670658684
+30,2-Harry Potter and the Chamber of Secrets,12-The Very Secret Diary,20.61046511627907,20.20797720797721
+31,2-Harry Potter and the Chamber of Secrets,13-Cornelius Fudge,22.125541125541126,21.52742616033755
+32,2-Harry Potter and the Chamber of Secrets,14-Aragog,21.36,21.210714285714285
+33,2-Harry Potter and the Chamber of Secrets,15-The Chamber of Secrets,18.099514563106798,17.8472553699284
+34,2-Harry Potter and the Chamber of Secrets,16-The Heir of Slytherin,17.68079800498753,18.90374331550802
+35,2-Harry Potter and the Chamber of Secrets,17-Dobby’s Reward,20.266666666666666,19.664
+36,3-Harry Potter and the Prisoner of Azkaban,00-Owl Post,21.634146341463413,21.248803827751196
+37,3-Harry Potter and the Prisoner of Azkaban,01-Aunt Marge’s Big Mistake,21.669565217391305,21.489270386266096
+38,3-Harry Potter and the Prisoner of Azkaban,02-The Knight Bus,20.859712230215827,20.648936170212767
+39,3-Harry Potter and the Prisoner of Azkaban,03-The Leaky Cauldron,23.48409893992933,23.345070422535212
+40,3-Harry Potter and the Prisoner of Azkaban,04-The Dementor,22.342036553524803,22.272727272727273
+41,3-Harry Potter and the Prisoner of Azkaban,05-Talons and Tea Leaves,22.105,21.77149877149877
+42,3-Harry Potter and the Prisoner of Azkaban,06-The Boggart in the Wardrobe,19.363321799307958,18.884745762711866
+43,3-Harry Potter and the Prisoner of Azkaban,07-Flight of the Fat Lady,21.944444444444443,21.660194174757283
+44,3-Harry Potter and the Prisoner of Azkaban,08-Grim Defeat,21.71518987341772,20.911585365853657
+45,3-Harry Potter and the Prisoner of Azkaban,09-The Marauder’s Map,22.311435523114355,22.093975903614457
+46,3-Harry Potter and the Prisoner of Azkaban,10-The Firebolt,22.366666666666667,22.050746268656717
+47,3-Harry Potter and the Prisoner of Azkaban,11-The Patronus,22.069204152249135,21.5472972972973
+48,3-Harry Potter and the Prisoner of Azkaban,12-Gryffindor versus Ravenclaw,23.100840336134453,23.457264957264957
+49,3-Harry Potter and the Prisoner of Azkaban,13-Snape’s Grudge,19.51358695652174,19.026455026455025
+50,3-Harry Potter and the Prisoner of Azkaban,14-The Quidditch Final,19.726256983240223,19.89887640449438
+51,3-Harry Potter and the Prisoner of Azkaban,15-Professor Trelawney’s Prediction,21.45692883895131,21.267657992565056
+52,3-Harry Potter and the Prisoner of Azkaban,"16-Cat, Rat and Dog",21.12452830188679,21.29657794676806
+53,3-Harry Potter and the Prisoner of Azkaban,"17-Moony, Wormtail, Padfoot and Prongs",23.007874015748033,22.396946564885496
+54,3-Harry Potter and the Prisoner of Azkaban,18-The Servant of Lord Voldemort,22.173076923076923,21.8801261829653
+55,3-Harry Potter and the Prisoner of Azkaban,19-The Dementor’s Kiss,17.99270072992701,18.46268656716418
+56,3-Harry Potter and the Prisoner of Azkaban,20-Hermione’s Secret,19.192534381139488,18.990253411306043
+57,3-Harry Potter and the Prisoner of Azkaban,21-Owl Post Again,18.97872340425532,18.969604863221885
+58,4-Harry Potter and the Goblet of Fire,00-The Riddle House,23.525345622119815,22.763392857142858
+59,4-Harry Potter and the Goblet of Fire,01-The Scar,25.84375,24.86466165413534
+60,4-Harry Potter and the Goblet of Fire,02-The Invitation,21.701657458563535,21.72222222222222
+61,4-Harry Potter and the Goblet of Fire,03-Back to The Burrow,21.573033707865168,21.176795580110497
+62,4-Harry Potter and the Goblet of Fire,04-Weasleys’ Wizard Wheezes,25.505208333333332,24.257425742574256
+63,4-Harry Potter and the Goblet of Fire,05-The Portkey,23.439393939393938,22.00709219858156
+64,4-Harry Potter and the Goblet of Fire,06-Bagman and Crouch,24.07773851590106,22.17161716171617
+65,4-Harry Potter and the Goblet of Fire,07-The Quidditch World Cup,24.901694915254236,23.521035598705502
+66,4-Harry Potter and the Goblet of Fire,08-The Dark Mark,23.12864077669903,21.19463087248322
+67,4-Harry Potter and the Goblet of Fire,09-Mayhem at the Ministry,25.975609756097562,24.627906976744185
+68,4-Harry Potter and the Goblet of Fire,10-Aboard the Hogwarts Express,24.826589595375722,23.16216216216216
+69,4-Harry Potter and the Goblet of Fire,11-The Triwizard Tournament,24.635714285714286,23.27364864864865
+70,4-Harry Potter and the Goblet of Fire,12-Mad-Eye Moody,24.451923076923077,22.446902654867255
+71,4-Harry Potter and the Goblet of Fire,13-The Unforgivable Curses,23.014492753623188,21.61512027491409
+72,4-Harry Potter and the Goblet of Fire,14-Beauxbatons and Durmstrang,26.53252032520325,24.62121212121212
+73,4-Harry Potter and the Goblet of Fire,15-The Goblet of Fire,23.360119047619047,21.901129943502823
+74,4-Harry Potter and the Goblet of Fire,16-The Four Champions,22.232365145228215,20.980314960629922
+75,4-Harry Potter and the Goblet of Fire,17-The Weighing of the Wands,24.604046242774565,23.797752808988765
+76,4-Harry Potter and the Goblet of Fire,18-The Hungarian Horntail,26.009615384615383,24.513677811550153
+77,4-Harry Potter and the Goblet of Fire,19-The First Task,26.483965014577258,25.51412429378531
+78,4-Harry Potter and the Goblet of Fire,20-The House-Elf Liberation Front,25.933098591549296,25.175257731958762
+79,4-Harry Potter and the Goblet of Fire,21-The Unexpected Task,23.06153846153846,21.959558823529413
+80,4-Harry Potter and the Goblet of Fire,22-The Yule Ball,24.33103448275862,23.656179775280897
+81,4-Harry Potter and the Goblet of Fire,23-Rita Skeeter’s Scoop,23.595441595441596,23.18820224719101
+82,4-Harry Potter and the Goblet of Fire,24-The Egg and the Eye,28.371541501976285,27.01127819548872
+83,4-Harry Potter and the Goblet of Fire,25-The Second Task,28.40909090909091,27.4
+84,4-Harry Potter and the Goblet of Fire,26-Padfoot Returns,24.152,23.821522309711288
+85,4-Harry Potter and the Goblet of Fire,27-The Madness of Mr Crouch,22.03611738148984,20.96559139784946
+86,4-Harry Potter and the Goblet of Fire,28-The Dream,22.00375939849624,21.417582417582416
+87,4-Harry Potter and the Goblet of Fire,29-The Pensieve,21.597333333333335,21.139107611548557
+88,4-Harry Potter and the Goblet of Fire,30-The Third Task,20.84504132231405,20.4369918699187
+89,4-Harry Potter and the Goblet of Fire,"31-Flesh, Blood and Bone",22.34259259259259,22.38317757009346
+90,4-Harry Potter and the Goblet of Fire,32-The Death Eaters,25.505208333333332,24.157635467980295
+91,4-Harry Potter and the Goblet of Fire,33-Priori Incantatem,50.91304347826087,47.067567567567565
+92,4-Harry Potter and the Goblet of Fire,34-Veritaserum,16.09442060085837,15.827004219409282
+93,4-Harry Potter and the Goblet of Fire,35-The Parting of the Ways,19.62531017369727,19.366093366093367
+94,4-Harry Potter and the Goblet of Fire,36-The Beginning,19.34431137724551,19.19345238095238
+95,5-Harry Potter and the Order of the Phoenix,00-Dudley Demented,23.594771241830067,24.814432989690722
+96,5-Harry Potter and the Order of the Phoenix,01-A Peck of Owls,20.660668380462724,21.27777777777778
+97,5-Harry Potter and the Order of the Phoenix,02-The Advance Guard,22.085526315789473,22.501672240802677
+98,5-Harry Potter and the Order of the Phoenix,"03-Number Twelve, Grimmauld Place",24.27936507936508,24.389776357827476
+99,5-Harry Potter and the Order of the Phoenix,04-The Order of the Phoenix,26.86813186813187,26.399280575539567
+100,5-Harry Potter and the Order of the Phoenix,05-The Noble and Most Ancient House of Black,29.134680134680135,29.489795918367346
+101,5-Harry Potter and the Order of the Phoenix,06-The Ministry of Magic,25.954545454545453,26.683720930232557
+102,5-Harry Potter and the Order of the Phoenix,07-The Hearing,25.389671361502348,25.752380952380953
+103,5-Harry Potter and the Order of the Phoenix,08-The Woes of Mrs Weasley,25.18854415274463,24.74413145539906
+104,5-Harry Potter and the Order of the Phoenix,09-Luna Lovegood,23.38317757009346,23.35202492211838
+105,5-Harry Potter and the Order of the Phoenix,10-The Sorting Hat’s New Song,27.760299625468164,27.898496240601503
+106,5-Harry Potter and the Order of the Phoenix,11-Professor Umbridge,25.630331753554504,25.842482100238662
+107,5-Harry Potter and the Order of the Phoenix,12-Detention with Dolores,25.693002257336342,25.802721088435373
+108,5-Harry Potter and the Order of the Phoenix,13-Percy and Padfoot,27.694960212201593,28.273712737127372
+109,5-Harry Potter and the Order of the Phoenix,14-The Hogwarts High Inquisitor,27.764705882352942,27.725856697819314
+110,5-Harry Potter and the Order of the Phoenix,15-In the Hog’s Head,29.524714828897338,29.520912547528518
+111,5-Harry Potter and the Order of the Phoenix,16-Educational Decree Number Twenty-Four,26.887147335423197,26.77570093457944
+112,5-Harry Potter and the Order of the Phoenix,17-Dumbledore’s Army,26.683734939759034,26.858006042296072
+113,5-Harry Potter and the Order of the Phoenix,18-The Lion and the Serpent,31.77358490566038,30.48
+114,5-Harry Potter and the Order of the Phoenix,19-Hagrid’s Tale,25.0,23.713483146067414
+115,5-Harry Potter and the Order of the Phoenix,20-The Eye of the Snake,27.136363636363637,26.05177111716621
+116,5-Harry Potter and the Order of the Phoenix,21-St Mungo’s Hospital for Magical Maladies and Injuries,27.988888888888887,29.07492795389049
+117,5-Harry Potter and the Order of the Phoenix,22-Christmas on the Closed Ward,29.11280487804878,30.421725239616613
+118,5-Harry Potter and the Order of the Phoenix,23-Occlumency,26.124365482233504,26.17557251908397
+119,5-Harry Potter and the Order of the Phoenix,24-The Beetle at Bay,25.70854271356784,24.902200488997554
+120,5-Harry Potter and the Order of the Phoenix,25-Seen and Unforeseen,28.60857908847185,28.652291105121293
+121,5-Harry Potter and the Order of the Phoenix,26-The Centaur and the Sneak,25.503957783641162,24.337531486146094
+122,5-Harry Potter and the Order of the Phoenix,27-Snape’s Worst Memory,23.846698113207548,24.734567901234566
+123,5-Harry Potter and the Order of the Phoenix,28-Careers Advice,28.431137724550897,28.54850746268657
+124,5-Harry Potter and the Order of the Phoenix,29-Grawp,27.90463917525773,27.467005076142133
+125,5-Harry Potter and the Order of the Phoenix,30-O.W.L.s,28.722713864306783,29.581818181818182
+126,5-Harry Potter and the Order of the Phoenix,31-Out of the Fire,27.466887417218544,25.84423676012461
+127,5-Harry Potter and the Order of the Phoenix,32-Fight and Flight,27.788888888888888,26.732620320855617
+128,5-Harry Potter and the Order of the Phoenix,33-The Department of Mysteries,25.027131782945737,23.940959409594097
+129,5-Harry Potter and the Order of the Phoenix,34-Beyond the Veil,31.380191693290733,27.855524079320112
+130,5-Harry Potter and the Order of the Phoenix,35-The Only One He Ever Feared,29.462962962962962,27.227272727272727
+131,5-Harry Potter and the Order of the Phoenix,36-The Lost Prophecy,26.057742782152232,24.97229219143577
+132,5-Harry Potter and the Order of the Phoenix,37-The Second War Begins,26.955801104972377,25.513089005235603
+133,6-Harry Potter and the Half Blood Prince,00-The Other Minister,27.01260504201681,26.62240663900415
+134,6-Harry Potter and the Half Blood Prince,01-Spinner’s End,22.791970802919707,22.433691756272403
+135,6-Harry Potter and the Half Blood Prince,02-Will and Won’t,28.223300970873787,28.1256038647343
+136,6-Harry Potter and the Half Blood Prince,03-Horace Slughorn,23.726153846153846,23.616564417177916
+137,6-Harry Potter and the Half Blood Prince,04-An Excess of Phlegm,25.273015873015872,25.746794871794872
+138,6-Harry Potter and the Half Blood Prince,05-Draco’s Detour,26.546075085324233,25.65573770491803
+139,6-Harry Potter and the Half Blood Prince,06-The Slug Club,24.76878612716763,23.874301675977655
+140,6-Harry Potter and the Half Blood Prince,07-Snape Victorious,25.96135265700483,26.00966183574879
+141,6-Harry Potter and the Half Blood Prince,08-The Half-Blood Prince,23.166153846153847,22.97872340425532
+142,6-Harry Potter and the Half Blood Prince,09-The House of Gaunt,25.226973684210527,24.893203883495147
+143,6-Harry Potter and the Half Blood Prince,10-Hermione’s Helping Hand,24.346863468634687,24.186131386861312
+144,6-Harry Potter and the Half Blood Prince,11-Silver and Opals,26.984555984555985,26.37593984962406
+145,6-Harry Potter and the Half Blood Prince,12-The Secret Riddle,23.792517006802722,23.68581081081081
+146,6-Harry Potter and the Half Blood Prince,13-Felix Felicis,27.678929765886288,27.15359477124183
+147,6-Harry Potter and the Half Blood Prince,14-The Unbreakable Vow,26.979094076655052,26.68041237113402
+148,6-Harry Potter and the Half Blood Prince,15-A Very Frosty Christmas,27.160655737704918,26.931818181818183
+149,6-Harry Potter and the Half Blood Prince,16-A Sluggish Memory,27.44295302013423,26.986842105263158
+150,6-Harry Potter and the Half Blood Prince,17-Birthday Surprises,25.27794561933535,24.60233918128655
+151,6-Harry Potter and the Half Blood Prince,18-Elf Tails,28.918439716312058,28.27681660899654
+152,6-Harry Potter and the Half Blood Prince,19-Lord Voldemort’s Request,28.75862068965517,27.956521739130434
+153,6-Harry Potter and the Half Blood Prince,20-The Unknowable Room,30.43951612903226,29.940711462450594
+154,6-Harry Potter and the Half Blood Prince,21-After the Burial,26.637931034482758,26.13131313131313
+155,6-Harry Potter and the Half Blood Prince,22-Horcruxes,27.372693726937268,27.598513011152416
+156,6-Harry Potter and the Half Blood Prince,23-Sectumsempra,27.197026022304833,26.43525179856115
+157,6-Harry Potter and the Half Blood Prince,24-The Seer Overheard,26.379446640316207,25.872093023255815
+158,6-Harry Potter and the Half Blood Prince,25-The Cave,28.073943661971832,27.142372881355932
+159,6-Harry Potter and the Half Blood Prince,26-The Lightning-Struck Tower,28.314009661835748,27.558685446009388
+160,6-Harry Potter and the Half Blood Prince,27-Flight of the Prince,41.11214953271028,33.371212121212125
+161,6-Harry Potter and the Half Blood Prince,28-The Phoenix Lament,28.784860557768923,27.127819548872182
+162,6-Harry Potter and the Half Blood Prince,29-The White Tomb,28.670886075949365,27.816326530612244
+163,7-Harry Potter and the Deathly Hallows,00-The Dark Lord Ascending,23.381818181818183,23.240963855421686
+164,7-Harry Potter and the Deathly Hallows,01-In Memoriam,28.392857142857142,27.91812865497076
+165,7-Harry Potter and the Deathly Hallows,02-The Dursleys Departing,24.15,23.491891891891893
+166,7-Harry Potter and the Deathly Hallows,03-The Seven Potters,32.443396226415096,31.149321266968325
+167,7-Harry Potter and the Deathly Hallows,04-Fallen Warrior,21.578512396694215,21.048387096774192
+168,7-Harry Potter and the Deathly Hallows,05-The Ghoul in Pyjamas,26.14626865671642,25.816568047337277
+169,7-Harry Potter and the Deathly Hallows,06-The Will of Albus Dumbledore,23.74863387978142,23.521621621621623
+170,7-Harry Potter and the Deathly Hallows,07-The Wedding,25.423566878980893,25.240506329113924
+171,7-Harry Potter and the Deathly Hallows,08-A Place to Hide,27.54591836734694,27.19191919191919
+172,7-Harry Potter and the Deathly Hallows,09-Kreacher’s Tale,24.715976331360945,24.232558139534884
+173,7-Harry Potter and the Deathly Hallows,10-The Bribe,25.73309608540925,25.3006993006993
+174,7-Harry Potter and the Deathly Hallows,11-Magic is Might,25.431818181818183,25.326860841423947
+175,7-Harry Potter and the Deathly Hallows,12-The Muggle-Born Registration Commission,24.744897959183675,24.90068493150685
+176,7-Harry Potter and the Deathly Hallows,13-The Thief,27.376288659793815,26.623115577889447
+177,7-Harry Potter and the Deathly Hallows,14-The Goblin’s Revenge,24.4221635883905,24.201570680628272
+178,7-Harry Potter and the Deathly Hallows,15-Godric’s Hollow,26.543933054393307,26.210743801652892
+179,7-Harry Potter and the Deathly Hallows,16-Bathilda’s Secret,25.99227799227799,25.32075471698113
+180,7-Harry Potter and the Deathly Hallows,17-The Life and Lies of Albus Dumbledore,23.72222222222222,23.96045197740113
+181,7-Harry Potter and the Deathly Hallows,18-The Silver Doe,23.092140921409214,22.962162162162162
+182,7-Harry Potter and the Deathly Hallows,19-Xenophilius Lovegood,23.314741035856574,22.68093385214008
+183,7-Harry Potter and the Deathly Hallows,20-The Tale of the Three Brothers,22.717391304347824,22.187279151943464
+184,7-Harry Potter and the Deathly Hallows,21-The Deathly Hallows,25.366666666666667,25.583892617449663
+185,7-Harry Potter and the Deathly Hallows,22-Malfoy Manor,22.93201754385965,22.318376068376068
+186,7-Harry Potter and the Deathly Hallows,23-The Wandmaker,20.758373205741627,20.450236966824644
+187,7-Harry Potter and the Deathly Hallows,24-Shell Cottage,23.651452282157678,23.537190082644628
+188,7-Harry Potter and the Deathly Hallows,25-Gringotts,29.34375,28.302013422818792
+189,7-Harry Potter and the Deathly Hallows,26-The Final Hiding Place,33.10204081632653,31.861386138613863
+190,7-Harry Potter and the Deathly Hallows,27-The Missing Mirror,23.69685039370079,23.0
+191,7-Harry Potter and the Deathly Hallows,28-The Lost Diadem,24.133858267716537,23.953125
+192,7-Harry Potter and the Deathly Hallows,29-The Sacking of Severus Snape,26.24390243902439,25.729083665338646
+193,7-Harry Potter and the Deathly Hallows,30-The Battle of Hogwarts,27.328877005347593,26.74934725848564
+194,7-Harry Potter and the Deathly Hallows,31-The Elder Wand,29.00420168067227,28.61825726141079
+195,7-Harry Potter and the Deathly Hallows,32-The Prince’s Tale,21.755102040816325,21.536437246963562
+196,7-Harry Potter and the Deathly Hallows,33-The Forest Again,20.28448275862069,20.128205128205128
+197,7-Harry Potter and the Deathly Hallows,34-King’s Cross,19.05722891566265,19.09422492401216
+198,7-Harry Potter and the Deathly Hallows,35-The Flaw in the Plan,27.484662576687118,26.578635014836795
+199,7-Harry Potter and the Deathly Hallows,36-Nineteen Years Later,20.36111111111111,20.34259259259259

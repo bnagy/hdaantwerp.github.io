@@ -1,0 +1,17 @@
+CASE	VARIETY	MODE	TRY	CLAUSE	FREQ
+1	amer	spk	and	other	120
+2	amer	spk	and	to	90
+3	amer	spk	to	other	381
+4	amer	spk	to	to	174
+5	amer	wrt	and	other	10
+6	amer	wrt	and	to	26
+7	amer	wrt	to	other	219
+8	amer	wrt	to	to	167
+9	brit	spk	and	other	503
+10	brit	spk	and	to	706
+11	brit	spk	to	other	150
+12	brit	spk	to	to	133
+13	brit	wrt	and	other	49
+14	brit	wrt	and	to	127
+15	brit	wrt	to	other	230
+16	brit	wrt	to	to	144

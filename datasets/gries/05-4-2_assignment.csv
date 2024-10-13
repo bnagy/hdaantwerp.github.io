@@ -1,0 +1,301 @@
+CASE	ASSIGNMENT	SEX	REGION	WORKHOURS	MISTAKES
+1	oral_exam	female	central european	20.1	18
+2	oral_exam	female	central european	21.3	18
+3	oral_exam	female	central european	13.5	13
+4	oral_exam	male	central european	19.5	12
+5	oral_exam	female	central european	21.8	12
+6	oral_exam	male	middle eastern	21.7	11
+7	oral_exam	male	central european	15.5	11
+8	oral_exam	female	hispanic	15.9	11
+9	oral_exam	female	central european	21.5	11
+10	oral_exam	female	central european	13.1	10
+11	oral_exam	female	central european	21.3	15
+12	oral_exam	female	central european	15.5	18
+13	oral_exam	female	hispanic	17.3	17
+14	oral_exam	female	hispanic	17.4	11
+15	oral_exam	male	central european	19.1	10
+16	oral_exam	female	central european	16.1	14
+17	oral_exam	male	central european	13.5	12
+18	oral_exam	male	central european	15.4	17
+19	oral_exam	female	middle eastern	18.3	17
+20	oral_exam	male	central european	12.6	19
+21	oral_exam	male	central european	20.5	13
+22	oral_exam	female	central european	14.1	20
+23	oral_exam	female	central european	17.4	20
+24	oral_exam	female	middle eastern	13.4	10
+25	oral_exam	female	hispanic	15.2	19
+26	oral_exam	female	middle eastern	18.2	18
+27	oral_exam	female	hispanic	14.6	17
+28	oral_exam	female	hispanic	18.3	13
+29	oral_exam	male	central european	16.9	15
+30	oral_exam	female	hispanic	21.4	14
+31	oral_exam	female	middle eastern	20.6	16
+32	oral_exam	female	central european	15.7	19
+33	oral_exam	female	central european	15.1	12
+34	oral_exam	female	hispanic	20.3	13
+35	oral_exam	male	central european	16.5	17
+36	oral_exam	female	central european	15.2	18
+37	oral_exam	male	central european	13	19
+38	oral_exam	female	central european	12.6	15
+39	oral_exam	male	central european	18.9	19
+40	oral_exam	female	middle eastern	18.7	13
+41	oral_exam	male	middle eastern	21	12
+42	oral_exam	female	central european	15	19
+43	oral_exam	male	central european	21.3	11
+44	oral_exam	female	central european	14	14
+45	oral_exam	female	central european	19.9	15
+46	oral_exam	male	central european	14.2	14
+47	oral_exam	female	central european	12.3	17
+48	oral_exam	female	central european	20.6	18
+49	oral_exam	male	central european	18.9	19
+50	oral_exam	female	hispanic	21.4	18
+51	oral_exam	female	central european	18.8	11
+52	oral_exam	male	central european	20.4	12
+53	oral_exam	female	hispanic	15.6	16
+54	oral_exam	female	central european	15.9	19
+55	oral_exam	female	middle eastern	17.7	16
+56	oral_exam	female	central european	13	13
+57	oral_exam	female	hispanic	13.9	19
+58	oral_exam	female	central european	17.9	12
+59	oral_exam	female	hispanic	19.5	15
+60	oral_exam	female	central european	20.7	10
+61	oral_exam	male	central european	15.7	14
+62	oral_exam	female	central european	20	14
+63	oral_exam	female	hispanic	12.6	11
+64	oral_exam	female	central european	18.2	16
+65	oral_exam	female	central european	15.6	13
+66	oral_exam	female	hispanic	17.9	12
+67	oral_exam	female	central european	21.1	14
+68	oral_exam	male	hispanic	14	19
+69	oral_exam	female	central european	15.7	20
+70	oral_exam	male	central european	18.7	17
+71	oral_exam	female	central european	19.7	20
+72	oral_exam	male	central european	17.2	15
+73	oral_exam	female	middle eastern	20.3	14
+74	oral_exam	female	central european	17.3	20
+75	oral_exam	female	central european	17	11
+76	oral_exam	male	central european	16.2	11
+77	oral_exam	male	central european	15.6	10
+78	oral_exam	female	hispanic	13.2	16
+79	oral_exam	male	central european	15	17
+80	oral_exam	male	central european	14.8	18
+81	oral_exam	female	central european	19.7	11
+82	oral_exam	male	central european	19.8	12
+83	oral_exam	female	central european	13.4	20
+84	oral_exam	female	middle eastern	17.2	14
+85	oral_exam	male	central european	18	12
+86	oral_exam	female	central european	17.1	15
+87	oral_exam	male	hispanic	15.9	15
+88	oral_exam	female	hispanic	16.3	13
+89	oral_exam	female	central european	12.1	20
+90	oral_exam	female	middle eastern	21.2	15
+91	oral_exam	female	central european	12.8	11
+92	oral_exam	female	central european	17.1	14
+93	oral_exam	female	middle eastern	20.2	16
+94	oral_exam	male	central european	18	12
+95	oral_exam	male	central european	16.2	11
+96	oral_exam	male	central european	17.6	18
+97	oral_exam	female	central european	19.9	16
+98	oral_exam	female	central european	13.7	13
+99	oral_exam	male	central european	21.7	12
+100	oral_exam	female	central european	16.7	13
+101	lab_report	female	middle eastern	34.3	17
+102	lab_report	female	middle eastern	34	19
+103	lab_report	female	hispanic	32.5	16
+104	lab_report	male	central european	31.8	22
+105	lab_report	female	hispanic	31.5	13
+106	lab_report	female	central european	25.7	12
+107	lab_report	female	middle eastern	29.2	17
+108	lab_report	female	central european	30.3	18
+109	lab_report	male	middle eastern	34.4	20
+110	lab_report	female	hispanic	32.1	19
+111	lab_report	male	hispanic	32.2	21
+112	lab_report	male	middle eastern	29.7	17
+113	lab_report	female	central european	26.2	13
+114	lab_report	female	central european	32.8	22
+115	lab_report	female	central european	29.4	16
+116	lab_report	female	middle eastern	29.3	21
+117	lab_report	male	middle eastern	25.3	21
+118	lab_report	female	middle eastern	26.5	15
+119	lab_report	female	middle eastern	29.2	13
+120	lab_report	female	central european	32.7	15
+121	lab_report	male	middle eastern	25	12
+122	lab_report	female	middle eastern	31	20
+123	lab_report	female	middle eastern	34.1	14
+124	lab_report	female	middle eastern	32.1	20
+125	lab_report	male	middle eastern	27.6	14
+126	lab_report	female	middle eastern	33.5	20
+127	lab_report	female	middle eastern	28.3	17
+128	lab_report	female	hispanic	30.8	15
+129	lab_report	female	central european	29.3	15
+130	lab_report	female	central european	25.5	19
+131	lab_report	female	hispanic	32.3	18
+132	lab_report	female	middle eastern	30.5	17
+133	lab_report	female	middle eastern	32.5	15
+134	lab_report	female	middle eastern	25.5	22
+135	lab_report	male	middle eastern	32.1	18
+136	lab_report	female	central european	28	14
+137	lab_report	female	central european	27.8	16
+138	lab_report	female	middle eastern	33.3	17
+139	lab_report	male	middle eastern	25.9	21
+140	lab_report	female	hispanic	25.4	14
+141	lab_report	female	middle eastern	28.5	14
+142	lab_report	female	middle eastern	30.4	14
+143	lab_report	female	middle eastern	31.1	18
+144	lab_report	female	middle eastern	27.7	17
+145	lab_report	male	middle eastern	27.1	14
+146	lab_report	female	middle eastern	28.8	16
+147	lab_report	female	middle eastern	29.7	18
+148	lab_report	male	hispanic	33.4	15
+149	lab_report	female	middle eastern	26.2	17
+150	lab_report	male	middle eastern	31.8	21
+151	lab_report	male	hispanic	30	12
+152	lab_report	male	middle eastern	34	17
+153	lab_report	male	middle eastern	30.5	16
+154	lab_report	male	middle eastern	26.3	21
+155	lab_report	male	middle eastern	29.4	21
+156	lab_report	male	middle eastern	26.9	14
+157	lab_report	male	middle eastern	29.3	20
+158	lab_report	male	hispanic	27.3	16
+159	lab_report	male	middle eastern	34.6	18
+160	lab_report	male	middle eastern	29.5	13
+161	lab_report	male	middle eastern	32.8	13
+162	lab_report	female	middle eastern	26.6	21
+163	lab_report	male	middle eastern	33.7	21
+164	lab_report	female	middle eastern	27.1	14
+165	lab_report	female	middle eastern	26.8	17
+166	lab_report	male	hispanic	26.6	21
+167	lab_report	male	central european	30.7	15
+168	lab_report	male	middle eastern	32.3	14
+169	lab_report	female	middle eastern	33.8	21
+170	lab_report	male	middle eastern	32.1	17
+171	lab_report	male	middle eastern	29.8	14
+172	lab_report	female	hispanic	33.2	12
+173	lab_report	female	central european	25.2	18
+174	lab_report	male	middle eastern	35	16
+175	lab_report	male	middle eastern	31.3	21
+176	lab_report	female	middle eastern	29.3	17
+177	lab_report	male	central european	25.3	19
+178	lab_report	female	middle eastern	32.5	12
+179	lab_report	male	middle eastern	27.1	16
+180	lab_report	female	middle eastern	35	16
+181	lab_report	male	central european	34.1	15
+182	lab_report	male	middle eastern	32.1	16
+183	lab_report	female	central european	32.3	18
+184	lab_report	male	hispanic	29.7	12
+185	lab_report	female	middle eastern	33.6	19
+186	lab_report	male	middle eastern	26.7	20
+187	lab_report	female	middle eastern	31.2	17
+188	lab_report	female	middle eastern	27.9	13
+189	lab_report	female	central european	29.6	21
+190	lab_report	male	middle eastern	25.5	16
+191	lab_report	female	middle eastern	26.8	17
+192	lab_report	male	hispanic	25.6	19
+193	lab_report	male	middle eastern	34.4	14
+194	lab_report	female	middle eastern	28.4	15
+195	lab_report	male	middle eastern	30.2	19
+196	lab_report	male	middle eastern	31.3	20
+197	lab_report	male	middle eastern	27.4	12
+198	lab_report	female	middle eastern	30.2	18
+199	lab_report	male	central european	33.1	19
+200	lab_report	female	middle eastern	28.5	21
+201	thesis	male	hispanic	38.6	22
+202	thesis	male	hispanic	30.3	18
+203	thesis	male	hispanic	39.7	19
+204	thesis	male	hispanic	37.5	16
+205	thesis	male	hispanic	32.7	16
+206	thesis	male	central european	36.8	21
+207	thesis	male	hispanic	33.5	18
+208	thesis	male	middle eastern	39.5	19
+209	thesis	male	middle eastern	33.4	24
+210	thesis	female	hispanic	30.3	19
+211	thesis	female	middle eastern	33.5	17
+212	thesis	male	hispanic	33.9	22
+213	thesis	female	hispanic	33.6	15
+214	thesis	female	middle eastern	39.6	22
+215	thesis	female	middle eastern	33.8	23
+216	thesis	male	hispanic	35.5	20
+217	thesis	male	hispanic	39.3	18
+218	thesis	female	hispanic	39.2	22
+219	thesis	female	hispanic	32.4	18
+220	thesis	male	hispanic	37.2	23
+221	thesis	male	middle eastern	33.5	16
+222	thesis	male	middle eastern	35.5	23
+223	thesis	male	hispanic	37.4	20
+224	thesis	male	hispanic	38.2	23
+225	thesis	female	hispanic	38.7	23
+226	thesis	male	central european	30.4	24
+227	thesis	male	middle eastern	32.2	18
+228	thesis	male	middle eastern	33.7	19
+229	thesis	male	central european	33.1	18
+230	thesis	female	central european	37.3	18
+231	thesis	male	hispanic	37	24
+232	thesis	male	hispanic	39.1	16
+233	thesis	male	hispanic	38.5	19
+234	thesis	male	hispanic	37.8	19
+235	thesis	male	hispanic	34	19
+236	thesis	male	hispanic	35.8	17
+237	thesis	male	hispanic	30.8	18
+238	thesis	male	hispanic	38.7	22
+239	thesis	male	hispanic	39.6	23
+240	thesis	male	hispanic	35.1	19
+241	thesis	male	hispanic	39.2	17
+242	thesis	male	central european	31.3	18
+243	thesis	female	hispanic	32.4	23
+244	thesis	male	hispanic	34.9	17
+245	thesis	male	hispanic	34.7	23
+246	thesis	male	hispanic	34.3	20
+247	thesis	male	central european	30.4	18
+248	thesis	male	hispanic	36.4	18
+249	thesis	male	hispanic	37.2	23
+250	thesis	female	middle eastern	33.5	16
+251	thesis	female	middle eastern	39.5	23
+252	thesis	female	hispanic	37.4	16
+253	thesis	male	hispanic	30.5	22
+254	thesis	male	central european	39.8	24
+255	thesis	male	middle eastern	32.2	25
+256	thesis	male	hispanic	30.4	17
+257	thesis	male	hispanic	32.6	15
+258	thesis	male	hispanic	37.2	17
+259	thesis	male	middle eastern	32.5	16
+260	thesis	female	middle eastern	32.3	19
+261	thesis	male	hispanic	30.2	16
+262	thesis	male	hispanic	32.6	18
+263	thesis	male	hispanic	36.9	21
+264	thesis	female	middle eastern	30.3	18
+265	thesis	female	central european	30.6	24
+266	thesis	male	hispanic	34	19
+267	thesis	male	hispanic	34.9	25
+268	thesis	female	hispanic	36.3	18
+269	thesis	male	hispanic	37.2	22
+270	thesis	male	central european	30.8	16
+271	thesis	male	hispanic	34.2	23
+272	thesis	male	hispanic	39.7	23
+273	thesis	male	hispanic	38.1	19
+274	thesis	male	hispanic	32.2	20
+275	thesis	male	middle eastern	34.9	22
+276	thesis	male	hispanic	30.1	16
+277	thesis	male	hispanic	32.6	21
+278	thesis	male	hispanic	34.5	23
+279	thesis	male	middle eastern	37.4	17
+280	thesis	female	middle eastern	39.9	15
+281	thesis	male	hispanic	33.3	19
+282	thesis	male	central european	39.4	18
+283	thesis	female	hispanic	39.6	19
+284	thesis	male	hispanic	39	19
+285	thesis	male	hispanic	34.9	24
+286	thesis	male	hispanic	37.8	17
+287	thesis	male	hispanic	38	16
+288	thesis	male	hispanic	36.8	21
+289	thesis	male	central european	35.8	15
+290	thesis	male	middle eastern	33.3	16
+291	thesis	male	hispanic	30	23
+292	thesis	male	hispanic	30.7	24
+293	thesis	female	middle eastern	30.9	17
+294	thesis	male	hispanic	30.1	21
+295	thesis	male	middle eastern	33.4	18
+296	thesis	male	hispanic	31.2	25
+297	thesis	male	hispanic	35.9	23
+298	thesis	male	hispanic	30.4	22
+299	thesis	male	hispanic	30.1	17
+300	thesis	female	hispanic	31.6	15

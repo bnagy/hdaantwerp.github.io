@@ -1,0 +1,6 @@
+POS	TOKENFREQ	TYPEFREQ	CLASS
+adj	421	271	open
+adv	337	103	open
+n	1411	735	open
+conj	458	18	closed
+prep	455	37	closed

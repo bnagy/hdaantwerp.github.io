@@ -1,0 +1,5 @@
+##### README: TIME data #####
+
+## Faces in TIME Magazine
+
+TIME Magazine is an influential periodical US publication that has covered America's domestic and global politics for many decades now. For a recent publication in the *Journal of Cultural Analytics*, [Jofre et al. (2020)](https://culturalanalytics.org/article/12266-what-s-in-a-face-gender-representation-of-faces-in-time-1940s-1990s) extracted all the human faces which were photorealistically depicted in TIME magazine's archive, covering 3,389 issues dating from 1923 to 2014. The research team (partly automatically) classified each of these instances as belonging to the 'male' or 'female' gender. For this exam question, we have preprocessed and reformatted their data (available from [here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YAT5QK)) into a new easy-to-use dataset. The comma-separated file `time-year.csv` records for each year in the dataset (1923-2014) the proportion of female faces (over all faces) that Jofre et al. detected.

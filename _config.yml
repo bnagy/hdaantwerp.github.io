@@ -2,6 +2,7 @@ title: Humanities Data Analysis 2024
 logo: /assets/img/bayes.jpg
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 color-scheme: dark
+favicon: true
 
 plugins:
   - jekyll-remote-theme

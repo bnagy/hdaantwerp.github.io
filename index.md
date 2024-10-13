@@ -13,12 +13,26 @@
 ## Schedule
 ###  Week 1
 #### Friday (18/10/2024) Room:S.R.213, 10:30–13:30
-	- &emsp;**[HDA: Course Overview (slides)](LINK)** 
-	- &emsp;**[HDA: Datasets (slides)](LINK)** 
-	- &emsp;**[Pandas (notebook)](LINK)** 
-	- &emsp;**[Descriptive Statistics (notebook)](LINK)** 
-	- &emsp;**[Data Visualisation (notebook)](LINK)**
-	- &emsp;**[Homework (notebook)](LINK)** 
+
+- **[HDA: Course Overview (slides)](LINK)** 
+- **[HDA: Datasets (slides)](LINK)** 
+- **[Pandas (nb)](LINK)** 
+- **[Descriptive Statistics (nb)](LINK)** 
+- **[Data Visualisation (nb)](LINK)**
+- **[Homework (nb)](LINK)**
+
+###  Week 2
+#### Tuesday (22/10/2024) Room:S.D.311, 10:30–11:30
+> Office Hours! Bring problems, questions, and/or coffee.
+
+#### Friday (25/10/2024) Room:S.R.213, 10:30–13:30
+
+- **[Selecting Statistical Approaches (slides)](LINK)** 
+- **[The Normal Distribution (nb)](LINK)** 
+- **[Hyothesis Testing (nb)](LINK)** 
+- **[Summary Statistical Tests (nb)](LINK)** 
+- **[Deep Dive: Mann-Whitney U (aka Wilcoxon) (nb)](LINK)** 
+- **[Homework (nb)](LINK)**
 
 
 

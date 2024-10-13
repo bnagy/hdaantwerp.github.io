@@ -1,2 +1,4 @@
 plugins:
   - jekyll-remote-theme
+color-scheme: dark
+logo: /assets/img/bayes.jpg

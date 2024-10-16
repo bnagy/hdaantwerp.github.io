@@ -10,6 +10,11 @@
 
 **************************************************************************
 ## Schedule
+
+>- Slides go up after class
+>- Homework Solutions on the following Weds/Thurs
+>- Notebooks go up *about* a week in advance
+
 ###  Week 1
 #### Friday (18/10/2024) Room:S.R.213, 10:15–13:15
 

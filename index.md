@@ -40,14 +40,14 @@
 - **Homework (nb)[coming soon]**
 
 ###  Week 3
-#### Tuesday (29/10/2024) Room: S.D.011, 10:30–11:30
+#### Tuesday (29/10/2024) Room: TBC, 10:30–11:30
 > Office Hours! Bring problems, questions, and/or coffee.
 
 #### Friday (1/11/2024) NO CLASS (Allerheiligen)
 
 ###  Second Week 3
 
-#### Tuesday (5/11/2024) Room: S.D.011, 10:30–11:30
+#### Tuesday (5/11/2024) Room: TBC, 10:30–11:30
 > Office Hours! Bring problems, questions, and/or coffee.
 
 #### Friday (8/11/2024) Room:S.R.213, 10:15–13:15
@@ -59,7 +59,7 @@
 - **Homework (nb)[coming soon]**
 
 ###  Week 4
-#### Tuesday (12/11/2024) Room: S.D.011, 10:30–11:30
+#### Tuesday (12/11/2024) Room: TBC, 10:30–11:30
 > Office Hours! Bring problems, questions, and/or coffee.
 
 #### Friday (15/11/2024) Room:S.R.213, 10:15–13:15
@@ -71,7 +71,7 @@
 - **Homework (nb)[coming soon]**
 
 ###  Week 5
-#### Tuesday (19/11/2024) Room: S.D.011, 10:30–11:30
+#### Wednesday (20/11/2024) Room: TBC, 10:30–11:30
 > Office Hours! Bring problems, questions, and/or coffee.
 
 #### Friday (22/11/2024) Room:S.R.213, 10:15–13:15

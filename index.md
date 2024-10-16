@@ -34,7 +34,34 @@
 - **Deep Dive: Mann-Whitney U (aka Wilcoxon) (nb)[coming soon]** 
 - **Homework (nb)[coming soon]**
 
+###  Week 3
+#### Tuesday (29/10/2024) Room: S.D.011, 10:30–11:30
+> Office Hours! Bring problems, questions, and/or coffee.
 
+#### Friday (1/11/2024) Room:S.R.213, 10:15–13:15
 
+- **Exploring Datasets (nb)[coming soon]** 
+- **The Chi-squared Test for Independence (slides)[coming soon]** 
+- **Chi-squared Tests (nb)[coming soon]** 
+- **Chi-squared Bonus Content (nb)[coming soon]** 
+- **Homework (nb)[coming soon]**
 
+###  Week 4
+#### Tuesday (5/11/2024) Room: S.D.011, 10:30–11:30
+> Office Hours! Bring problems, questions, and/or coffee.
 
+#### Friday (8/11/2024) Room:S.R.213, 10:15–13:15
+
+- **Correlation (nb)[coming soon]** 
+- **Linear Models (nb)[coming soon]** 
+- **Understanding Predictors (nb)[coming soon]** 
+- **Model Selection (nb)[coming soon]** 
+- **Homework (nb)[coming soon]**
+
+###  Week 5
+#### Tuesday (12/11/2024) Room: S.D.011, 10:30–11:30
+> Office Hours! Bring problems, questions, and/or coffee.
+
+#### Friday (15/11/2024) Room:S.R.213, 10:15–13:15
+
+- **Bayesian Models, Discrete Outcomes, Mixed Effects [coming soon]**

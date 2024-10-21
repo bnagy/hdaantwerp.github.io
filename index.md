@@ -35,7 +35,7 @@
 - **Selecting Statistical Approaches (slides)[coming soon]** 
 - **[The Normal Distribution (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-2/2-1-normal-py.ipynb)** 
 - **[Hypothesis Testing (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-2/2-2-hypothesis-py.ipynb)** 
-- **[Summary Statistical Tests (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-2/2-tests-py.ipynb)** 
+- **[Summary Statistical Tests (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-2/2-3-tests-py.ipynb)** 
 - **[Deep Dive: Mann-Whitney U (aka Wilcoxon) (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-2/2-4-wilcoxon-py.ipynb)** 
 - **[Homework (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-2/2-5-homework.ipynb)**
 

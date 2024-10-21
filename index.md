@@ -18,7 +18,7 @@
 ###  Week 1
 #### Friday (18/10/2024) Room:S.R.213, 10:15–13:15
 
-- **[HDA: Course Overview (slides)](slides/session-1/1-1-course_intro.pdf](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/slides/session-1/1-1-course_intro.pdf )** 
+- **[HDA: Course Overview (slides)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/slides/session-1/1-1-course_intro.pdf )** 
 - **[HDA: Datasets (slides)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/slides/session-1/1-2-datasets.pdf)** 
 - **[Pandas (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-1/1-3-pandas.ipynb)** 
 - **[Descriptive Statistics (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-1/1-4-descriptive.ipynb)** 

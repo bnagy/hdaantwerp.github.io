@@ -24,7 +24,7 @@
 - **[Descriptive Statistics (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-1/1-4-descriptive.ipynb)** 
 - **[Data Visualisation (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-1/1-5-visualization.ipynb)**
 - **[Homework (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-1/1-6-homework.ipynb)**
-- **Homework Solutions (nb) (before 25/10)**
+- **[Homework Solutions (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-1/1-6-homework-solutions.ipynb)**
 
 ###  Week 2
 #### Tuesday (22/10/2024) Room: S.D.011, 10:30–11:30

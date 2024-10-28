@@ -32,7 +32,7 @@
 
 #### Friday (25/10/2024) Room:S.R.213, 10:15–13:15
 
-- **Selecting Statistical Approaches (slides)[coming soon]** 
+- **[Selecting Statistical Approaches (slides)](slides/session-2/2-1-stat_appr.pdf)** 
 - **[The Normal Distribution (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-2/2-1-normal-py.ipynb)** 
 - **[Hypothesis Testing (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-2/2-2-hypothesis-py.ipynb)** 
 - **[Summary Statistical Tests (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-2/2-3-tests-py.ipynb)** 

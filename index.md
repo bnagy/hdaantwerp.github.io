@@ -41,7 +41,7 @@
 - **Homework Solutions (nb) (before 1/11)**
 
 ###  Week 3
-#### Tuesday (29/10/2024) Room: TBC, 10:30–11:30
+#### Tuesday (29/10/2024) Room: S.D. 330, 10:30–11:30
 > Office Hours! Bring problems, questions, and/or coffee.
 
 #### Friday (1/11/2024) NO CLASS (Allerheiligen)

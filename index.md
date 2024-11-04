@@ -38,7 +38,7 @@
 - **[Summary Statistical Tests (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-2/2-3-tests-py.ipynb)** 
 - **[Deep Dive: Mann-Whitney U (aka Wilcoxon) (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-2/2-4-wilcoxon-py.ipynb)** 
 - **[Homework (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-2/2-5-homework.ipynb)**
-- **Homework Solutions (nb) (before 1/11)**
+- **[Homework Solutions (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-1/2-5-homework_solutions.ipynb)**
 
 ###  Week 3
 #### Tuesday (29/10/2024) Room: S.D. 330, 10:30–11:30
@@ -48,8 +48,8 @@
 
 ###  Second Week 3
 
-#### Tuesday (5/11/2024) Room: TBC, 10:30–11:30
-> Office Hours! Bring problems, questions, and/or coffee.
+#### Tuesday (5/11/2024) Room: S.D. 330, 13:00–1400
+> [TIME CHANGE TODAY SORRY] Office Hours! Bring problems, questions, and/or coffee.
 
 #### Friday (8/11/2024) Room:S.R.213, 10:15–13:15
 

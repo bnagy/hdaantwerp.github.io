@@ -67,6 +67,7 @@
 
 #### Friday (15/11/2024) Room:S.R.213, 10:15–13:15
 
+- **Correlation and linear models (slides)[coming soon]**
 - **Correlation (nb)[coming soon]** 
 - **Linear Models (nb)[coming soon]** 
 - **Understanding Predictors (nb)[coming soon]** 

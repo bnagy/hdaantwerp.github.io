@@ -56,7 +56,7 @@
 #### This session has quite a few small coding exercises for us to do in class. You can have a look at these in advance if you like.
 
 - **[Exploring Datasets (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-3/3-1-exploration.ipynb)** 
-- **The Chi-squared Test for Independence (slides)[coming soon]** 
+- **[The Chi-squared Test for Independence (slides)](slides/session-3/3-2-chi-squared.pdf)** 
 - **[Chi-squared Tests (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-3/3-3-chisquare-code.ipynb)** 
 - **[Chi-squared Bonus Content (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-3/3-4-chisquared-extra.ipynb)** 
 - **[Homework (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-3/3-5-homework.ipynb)**

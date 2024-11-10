@@ -77,8 +77,8 @@
 
 - **Correlation and linear models (slides)[coming soon]**
 - **[Correlation (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-4/4-1-correlations.ipynb)** 
-- **[Linear Models (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-4/4-3-linear.ipynb)** 
-- **[Understanding Predictors (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-4/4-4-predictors.ipynb)** 
+- **[Linear Models (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-4/4-2-linear.ipynb)** 
+- **[Understanding Predictors (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-4/4-3-predictors.ipynb)** 
 - **[Model Selection (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-4/4-4-selection.ipynb)** 
 - **[Homework (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-4/4-5-homework.ipynb)**
 

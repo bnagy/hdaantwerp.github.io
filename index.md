@@ -61,18 +61,26 @@
 - **[Chi-squared Bonus Content (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-3/3-4-chisquared-extra.ipynb)** 
 - **[Homework (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-3/3-5-homework.ipynb)**
 
+> REMINDER: Please start now to install `bambi` and make sure it works (for Week 5). The command for conda should be something like: 
+
+`conda install -c conda-forge bambi`
+
+> If you have trouble, first try googling the errors, and otherwise email us, or come to office hours!
+
 ###  Week 4
 #### Tuesday (12/11/2024) Room: TBC, 10:30–11:30
 > Office Hours! Bring problems, questions, and/or coffee.
 
 #### Friday (15/11/2024) Room:S.R.213, 10:15–13:15
 
+> IMPORTANT: To run these notebooks you will need the `statsmodels` Python package. You should be able to install it easily with either `pip` or `conda install`.
+
 - **Correlation and linear models (slides)[coming soon]**
-- **Correlation (nb)[coming soon]** 
-- **Linear Models (nb)[coming soon]** 
-- **Understanding Predictors (nb)[coming soon]** 
-- **Model Selection (nb)[coming soon]** 
-- **Homework (nb)[coming soon]**
+- **[Correlation (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-4/4-1-correlations.ipynb)** 
+- **[Linear Models (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-4/4-3-linear.ipynb)** 
+- **[Understanding Predictors (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-4/4-4-predictors.ipynb)** 
+- **[Model Selection (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-4/4-4-selection.ipynb)** 
+- **[Homework (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-4/4-5-homework.ipynb)**
 
 ###  Week 5
 #### Wednesday (20/11/2024) Room: TBC, 10:30–11:30

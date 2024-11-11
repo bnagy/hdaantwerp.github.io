@@ -68,7 +68,7 @@
 > If you have trouble, first try googling the errors, and otherwise email us, or come to office hours!
 
 ###  Week 4
-#### Tuesday (12/11/2024) Room: TBC, 10:30–11:30
+#### Tuesday (12/11/2024) Room: S.D.330, 10:30–11:30
 > Office Hours! Bring problems, questions, and/or coffee.
 
 #### Friday (15/11/2024) Room:S.R.213, 10:15–13:15

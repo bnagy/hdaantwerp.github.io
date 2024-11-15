@@ -75,7 +75,7 @@
 
 > IMPORTANT: To run these notebooks you will need the `statsmodels` Python package. You should be able to install it easily with either `pip` or `conda install`.
 
-- **Correlation and linear models (slides)[coming soon]**
+- **[Correlation and linear models (slides)](https://github.com/bnagy/UAntwerpHDA24/tree/DTA_Bootcamp_2021_students/slides/session-4)**
 - **[Correlation (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-4/4-1-correlations.ipynb)** 
 - **[Linear Models (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-4/4-2-linear.ipynb)** 
 - **[Understanding Predictors (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-4/4-3-predictors.ipynb)** 
@@ -83,7 +83,7 @@
 - **[Homework (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-4/4-5-homework.ipynb)**
 
 ###  Week 5
-#### Wednesday (20/11/2024) Room: TBC, 10:30–11:30
+#### Wednesday (20/11/2024) Room: S.SJ.120, 10:30–11:30
 > Office Hours! Bring problems, questions, and/or coffee.
 
 #### Friday (22/11/2024) Room:S.R.213, 10:15–13:15

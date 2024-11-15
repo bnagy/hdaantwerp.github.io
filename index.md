@@ -75,7 +75,7 @@
 
 > IMPORTANT: To run these notebooks you will need the `statsmodels` Python package. You should be able to install it easily with either `pip` or `conda install`.
 
-- **[Correlation and linear models (slides)](https://github.com/bnagy/UAntwerpHDA24/tree/DTA_Bootcamp_2021_students/slides/session-4)**
+- **[Correlation and linear models (slides)](slides/session-4/4-0-stat_appr.pdf)**
 - **[Correlation (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-4/4-1-correlations.ipynb)** 
 - **[Linear Models (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-4/4-2-linear.ipynb)** 
 - **[Understanding Predictors (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-4/4-3-predictors.ipynb)** 

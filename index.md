@@ -94,7 +94,7 @@
 - **[Mixed Effects Models and Binary Logistic Resoponse Variables](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-5/5-2-bayesian_mixed_effects.ipynb)**
 - **[Model Selection](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-5/5-3-bayesian_model_selection.ipynb)**
 - **[Count Regression](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-5/5-4-bayesian_count_regression.ipynb)**
--**Homework (coming soon)**
+- **Homework (coming soon)**
 
 > We also have two notebooks which we will not have time to cover, but might be interesting/useful. In these, we work the same binary logistic modelling problem with `statsmodels` and `bambi` to compare
 

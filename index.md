@@ -68,22 +68,22 @@
 > If you have trouble, first try googling the errors, and otherwise email us, or come to office hours!
 
 ###  Week 4
-#### Tuesday (12/11/2024) Room: TBC, 10:30–11:30
+#### Tuesday (12/11/2024) Room: S.D.330, 10:30–11:30
 > Office Hours! Bring problems, questions, and/or coffee.
 
 #### Friday (15/11/2024) Room:S.R.213, 10:15–13:15
 
 > IMPORTANT: To run these notebooks you will need the `statsmodels` Python package. You should be able to install it easily with either `pip` or `conda install`.
 
-- **Correlation and linear models (slides)[coming soon]**
+- **[Correlation and linear models (slides)](slides/session-4/4-0-stat_appr.pdf)**
 - **[Correlation (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-4/4-1-correlations.ipynb)** 
-- **[Linear Models (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-4/4-3-linear.ipynb)** 
-- **[Understanding Predictors (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-4/4-4-predictors.ipynb)** 
+- **[Linear Models (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-4/4-2-linear.ipynb)** 
+- **[Understanding Predictors (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-4/4-3-predictors.ipynb)** 
 - **[Model Selection (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-4/4-4-selection.ipynb)** 
 - **[Homework (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-4/4-5-homework.ipynb)**
 
 ###  Week 5
-#### Wednesday (20/11/2024) Room: TBC, 10:30–11:30
+#### Wednesday (20/11/2024) Room: S.SJ.120, 10:30–11:30
 > Office Hours! Bring problems, questions, and/or coffee.
 
 #### Friday (22/11/2024) Room:S.R.213, 10:15–13:15

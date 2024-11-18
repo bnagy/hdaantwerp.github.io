@@ -92,12 +92,12 @@
 **Bayesian Models, Discrete Outcomes, Mixed Effects**
 
 - **[Bayesian "Linear" Models (aka Introduction and Concepts)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-5/5-1-bayesian_linear_regression.ipynb)**
-- **[Mixed Effects Models and Binary Logistic Resoponse Variables](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-5/5-2-bayesian_mixed_effects.ipynb)**
+- **[Mixed Effects Models and Binary Logistic Response Variables](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-5/5-2-bayesian_mixed_effects.ipynb)**
 - **[Model Selection](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-5/5-3-bayesian_model_selection.ipynb)**
 - **[Count Regression](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-5/5-4-bayesian_count_regression.ipynb)**
--**Homework (coming soon)**
+- **Homework (coming soon)**
 
-> We also have two notebooks which we will not have time to cover, but might be interesting/useful. In these, we work the same binary logistic modelling problem with `statsmodels` and `bambi` to compare
+> We also have two notebooks which we will not have time to cover, but which might be interesting/useful. In these, we work the same binary logistic modelling problem with `statsmodels` and `bambi` to compare
 
 - **[Bayesian Logistic Regression (standard)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-5/extra_logistic_bayesian.ipynb)**
 - **[Frequentist Logistic Regression (standard)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-5/extra_logistic_frequentist.ipynb)**

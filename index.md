@@ -60,6 +60,7 @@
 - **[Chi-squared Tests (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-3/3-3-chisquare-code.ipynb)** 
 - **[Chi-squared Bonus Content (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-3/3-4-chisquared-extra.ipynb)** 
 - **[Homework (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-3/3-5-homework.ipynb)**
+- **[Homework Solutions (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-3/3-5-homework_solutions.ipynb)**
 
 > REMINDER: Please start now to install `bambi` and make sure it works (for Week 5). The command for conda should be something like: 
 

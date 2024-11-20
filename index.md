@@ -91,6 +91,7 @@
 
 **Bayesian Models, Discrete Outcomes, Mixed Effects**
 
+- **[Bayesian statistics, general linear models and mixed effects (slides)] (coming soon)** 
 - **[Bayesian "Linear" Models (aka Introduction and Concepts) (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-5/5-1-bayesian_linear_regression.ipynb)**
 - **[Mixed Effects Models and Binary Logistic Response Variables (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-5/5-2-bayesian_mixed_effects.ipynb)**
 - **[Model Selection (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-5/5-3-bayesian_model_selection.ipynb)**
@@ -103,3 +104,9 @@
 - **[Bayesian Logistic Regression (standard) (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-5/extra_logistic_bayesian.ipynb)**
 - **[Frequentist Logistic Regression (standard) (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-5/extra_logistic_frequentist.ipynb)**
 
+###  Meetings when our weekly sessions are (sadly) over
+#### Friday (29/11/2024) Room: S.SJ.120, 10:30–11:30
+> Office Hours! Bring problems, questions, and/or coffee.
+
+#### TBA
+> Pre exam prep session! This will be a couple of days before the exam

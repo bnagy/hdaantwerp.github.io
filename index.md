@@ -1,7 +1,7 @@
 # MA Digital Text Analysis: Humanities Data Analysis 
 
 ## Administrative Information
-- Dates: 18 October 2024 – 15 November 2024
+- Dates: 18 October 2024 – 22 November 2024
 - Contact: [alessandra.demulder@uantwerpen.be](mailto:alessandra.demulder@uantwerpen.be)
 - Instructors:
 	- [Alessandra De Mulder](mailto:alessandra.demulder@uantwerpen.be)

@@ -82,6 +82,7 @@
 - **[Understanding Predictors (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-4/4-3-predictors.ipynb)** 
 - **[Model Selection (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-4/4-4-selection.ipynb)** 
 - **[Homework (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-4/4-5-homework.ipynb)**
+- **[Homework Soutions (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-4/4-6-homework_solutions.ipynb)**
 
 ###  Week 5
 #### Wednesday (20/11/2024) Room: S.SJ.120, 10:30–11:30

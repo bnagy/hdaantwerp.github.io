@@ -92,7 +92,7 @@
 
 **Bayesian Models, Discrete Outcomes, Mixed Effects**
 
-- **[Bayesian statistics, general linear models and mixed effects (slides)] (coming soon)** 
+- **[Bayesian statistics, general linear models and mixed effects (slides)](https://github.com/bnagy/UAntwerpHDA24/tree/DTA_Bootcamp_2021_students/slides/session-5)** 
 - **[Bayesian "Linear" Models (aka Introduction and Concepts) (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-5/5-1-bayesian_linear_regression.ipynb)**
 - **[Mixed Effects Models and Binary Logistic Response Variables (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-5/5-2-bayesian_mixed_effects.ipynb)**
 - **[Model Selection (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-5/5-3-bayesian_model_selection.ipynb)**

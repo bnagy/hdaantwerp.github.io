@@ -98,7 +98,7 @@
 - **[Model Selection (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-5/5-3-bayesian_model_selection.ipynb)**
 - **[Count Regression (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-5/5-4-bayesian_count_regression.ipynb)**
 - **[Homework (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-5/5-4-homework_fanfiction.ipynb)**
-- **[Homework Solutions](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-5/5-4-homework_fanfiction_solutions.ipynb)**
+- **[Homework Solutions (nb)](https://github.com/bnagy/UAntwerpHDA24/blob/DTA_Bootcamp_2021_students/notebooks/session-5/5-4-homework_fanfiction_solutions.ipynb)**
 
 > We also have two notebooks which we will not have time to cover, but which might be interesting/useful. In these, we work the same binary logistic modelling problem with `statsmodels` and `bambi` to compare
 

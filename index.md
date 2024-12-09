@@ -109,5 +109,5 @@
 #### Friday (29/11/2024) Room: S.SJ.120, 10:30–11:30
 > Office Hours! Bring problems, questions, and/or coffee.
 
-#### TBA
-> Pre exam prep session! This will be a couple of days before the exam
+#### Monday (06/01/2025) Room: S.SJ.022, 10:00-12:00
+> You can pose any questions **[here](https://docs.google.com/spreadsheets/d/1ApBiinfmw9Fon9PVfiw6vVaAjdOt8AMvqZ80UP-s2z0/edit?gid=0#gid=0)** and "upvote" questions of your fellow students by adding your name to a row. We will prioritize questions that were posted before Friday 3/01 12:00 but should have time to go over other questions as well.

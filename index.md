@@ -2,10 +2,10 @@
 
 ## Administrative Information
 - Dates: 18 October 2024 – 22 November 2024
-- Contact: [alessandra.demulder@uantwerpen.be](mailto:alessandra.demulder@uantwerpen.be)
+- Contact: [alessandra.demulder@uantwerpen.be](mailto:alessandra.demulder@uantwerpen.be.removethis)
 - Instructors:
-	- [Alessandra De Mulder](mailto:alessandra.demulder@uantwerpen.be)
-	- [Ben Nagy](mailto:benjamin.nagy@uantwerpen.be)
+	- [Alessandra De Mulder](mailto:alessandra.demulder@uantwerpen.be.removethis)
+	- [Ben Nagy](mailto:benjamin.nagy@uantwerpen.be.removethis)
 
 
 **************************************************************************
@@ -110,4 +110,4 @@
 > Office Hours! Bring problems, questions, and/or coffee.
 
 #### Monday (06/01/2025) Room: S.SJ.022, 10:00-12:00
-> You can pose any questions **[here](https://docs.google.com/spreadsheets/d/1ApBiinfmw9Fon9PVfiw6vVaAjdOt8AMvqZ80UP-s2z0/edit?gid=0#gid=0)** and "upvote" questions of your fellow students by adding your name to a row. We will prioritize questions that were posted before Friday 3/01 12:00 but should have time to go over other questions as well.
+> You can pose any questions [archived] and "upvote" questions of your fellow students by adding your name to a row. We will prioritize questions that were posted before Friday 3/01 12:00 but should have time to go over other questions as well.
